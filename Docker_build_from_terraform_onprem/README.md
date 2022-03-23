@@ -85,8 +85,8 @@ a) Creating a container from a NGINX prebuilt image:
 
 b) Create a container from an image you built (custom):
 
-   - First create an image from your Dockerfile:
-     Dokcer file content:
+   - First create an image from your Dockerfile:  
+     Docker file content:
 
          FROM centos:latest
          MAINTAINER Jdoe
