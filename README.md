@@ -11,6 +11,8 @@
 
 ## INTRODUCTION
 
+To see a practical example, please refer to the following folder:  
+#### "Docker_build_from_terraform_onprem"  
 This is a simple example but enough to understand the concept and use it as a start point for more complex projects.
 Terraform not only works with cloud environments, it can be used to automate on prem infrastructure.
 The purpose of this code is to build a local Docker Container from local terraform.
