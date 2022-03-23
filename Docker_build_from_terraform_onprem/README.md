@@ -145,8 +145,4 @@ b) Create a container from an image you built (custom):
 --------------------
  * Francisco Gutiérrez Gutiérrez.  
    Sr. Unix/Linux Engineer.  
-   Big Fish Games 2022.
-   
- * Daniel Castillo  
-   Sr. Unix/Linux Engineer.  
-   Big Fish Games 2022.
+   ingenierialinuxpereira@gmail.com
