@@ -11,6 +11,7 @@
 
 ## INTRODUCTION
 
+This is a simple example but enough to understand the concept and use it as a start point for more complex projects.
 Terraform not only works with cloud environments, it can be used to automate on prem infrastructure.
 The purpose of this code is to build a local Docker Container from local terraform.
 Terraform will be using the local docker provider (previously installed over an onprem server)
