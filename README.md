@@ -13,7 +13,7 @@
 
 Terraform not only works with cloud environments, it can be used to automate on prem infrastructure.
 The purpose of this code is to build a local Docker Container from local terraform.
-Terraform will be using the local docker provider (previously installed in an onprem server)
+Terraform will be using the local docker provider (previously installed over an onprem server)
 
 
 ## REQUIREMENTS
